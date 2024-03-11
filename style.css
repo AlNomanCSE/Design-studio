@@ -151,6 +151,9 @@ a {
   }
 }
 @media screen and (max-width: 600px) {
+  .header nav {
+    gap: 0.5rem;
+  }
   .section-1 h1 {
     font-size: 2rem;
   }
